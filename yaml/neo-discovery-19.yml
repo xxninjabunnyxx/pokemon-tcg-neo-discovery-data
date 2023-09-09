@@ -1,0 +1,98 @@
+---
+id: neo2-19
+name: Butterfree
+supertype: Pokémon
+subtypes:
+- Stage 2
+level: '24'
+hp: '80'
+types:
+- Grass
+evolvesFrom: Metapod
+attacks:
+- name: Magic Dust
+  cost:
+  - Grass
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '20'
+  text: Flip a coin. If heads, the Defending Pokémon is now either Asleep, Confused,
+    Paralyzed, or Poisoned (your choice).
+- name: Hyper Reverse
+  cost:
+  - Grass
+  - Grass
+  - Colorless
+  convertedEnergyCost: 3
+  damage: ''
+  text: Does 10 damage times the number of Energy attached to the Defending Pokémon.
+    After doing damage, remove a number of damage counters from Butterfree equal to
+    the amount of damage done to the Defending Pokémon (after applying Weakness and
+    Resistance).
+weaknesses:
+- type: Fire
+  value: "×2"
+resistances:
+- type: Fighting
+  value: "-30"
+set:
+  id: neo2
+  name: Neo Discovery
+  series: Neo
+  printedTotal: 75
+  total: 75
+  legalities:
+    unlimited: Legal
+  ptcgoCode: N2
+  releaseDate: 2001/06/01
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/neo2/symbol.png
+    logo: https://images.pokemontcg.io/neo2/logo.png
+number: '19'
+artist: Atsuko Nishida
+rarity: Rare
+flavorText: It collects honey every day. It rubs honey onto the hairs on its legs
+  to carry it back to its nest.
+nationalPokedexNumbers:
+- 12
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/neo2/19.png
+  large: https://images.pokemontcg.io/neo2/19_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/neo2-19
+  updatedAt: 2023/09/08
+  prices:
+    1stEdition:
+      low: 6.48
+      mid: 10.0
+      high: 16.23
+      market: 8.12
+      directLow: 
+    unlimited:
+      low: 1.0
+      mid: 2.14
+      high: 5.24
+      market: 2.89
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/neo2-19
+  updatedAt: 2023/09/08
+  prices:
+    averageSellPrice: 3.25
+    lowPrice: 0.15
+    trendPrice: 3.36
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 15.33
+    lowPriceExPlus: 1.0
+    avg1: 1.19
+    avg7: 2.0
+    avg30: 2.91
+    reverseHoloAvg1: 10.0
+    reverseHoloAvg7: 16.35
+    reverseHoloAvg30: 8.73

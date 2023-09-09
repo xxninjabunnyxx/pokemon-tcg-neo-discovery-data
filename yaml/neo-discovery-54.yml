@@ -1,0 +1,84 @@
+---
+id: neo2-54
+name: Dunsparce
+supertype: Pokémon
+subtypes:
+- Basic
+level: '9'
+hp: '30'
+types:
+- Colorless
+attacks:
+- name: Glare
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: '10'
+  text: Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+weaknesses:
+- type: Fighting
+  value: "×2"
+resistances:
+- type: Psychic
+  value: "-30"
+set:
+  id: neo2
+  name: Neo Discovery
+  series: Neo
+  printedTotal: 75
+  total: 75
+  legalities:
+    unlimited: Legal
+  ptcgoCode: N2
+  releaseDate: 2001/06/01
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/neo2/symbol.png
+    logo: https://images.pokemontcg.io/neo2/logo.png
+number: '54'
+artist: Yukiko Baba
+rarity: Common
+flavorText: When spotted, this Pokémon escapes backward by furiously boring into the
+  ground with its tail.
+nationalPokedexNumbers:
+- 206
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/neo2/54.png
+  large: https://images.pokemontcg.io/neo2/54_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/neo2-54
+  updatedAt: 2023/09/08
+  prices:
+    1stEdition:
+      low: 0.75
+      mid: 1.21
+      high: 3.01
+      market: 1.38
+      directLow: 1.16
+    unlimited:
+      low: 0.15
+      mid: 0.36
+      high: 4.0
+      market: 0.3
+      directLow: 0.24
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/neo2-54
+  updatedAt: 2023/09/08
+  prices:
+    averageSellPrice: 0.43
+    lowPrice: 0.02
+    trendPrice: 0.48
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 0.0
+    lowPriceExPlus: 0.04
+    avg1: 0.5
+    avg7: 0.3
+    avg30: 0.3
+    reverseHoloAvg1: 0.0
+    reverseHoloAvg7: 0.0
+    reverseHoloAvg30: 0.0
